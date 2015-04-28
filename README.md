@@ -1,5 +1,7 @@
 Measure180
 ==========
+**THIS IS THE FIRST APP I EVER MADE**  
+The code is pretty much the worst code ever but it doesn't have glaring bugs and it works so I have no need to update it.
 
 app for measuring distances and heights on windows phone
 
